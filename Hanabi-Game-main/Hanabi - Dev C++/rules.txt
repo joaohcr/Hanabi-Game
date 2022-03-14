@@ -1,0 +1,42 @@
+REGRAS DO HANABI
+
+COMPOSIÇÃO DO JOGO
+- Baralho de 50 cartas (fireworks cards), 10 de cada cor: azul, verde, vermelho, branco e amarelo
+- Cada cor: três números 1, dois números 2, dois números 3, dois números 4 e apenas um número 5
+- 8 fichas de pistas (note tokens) e 3 fichas de vida (storm tokens)
+
+OBJETIVO DO JOGO
+Conseguir jogar / colocar 25 cartas na mesa formando 5 montes, um de cada cor, com as cartas colocadas por ordem numérica e por ordem decrescente.
+
+PREPARAÇÃO DO JOGO 
+Baralham-se as 50 cartas e distribuem-se cartas a cada jogador (player hand), neste caso, 5. As cartas estão visíveis apenas ao outro jogador. As restantes formam o baralho de compra (draw deck).
+
+DESENVOLVIMENTO DO JOGO 
+Na sua vez de jogar, um jogador deve fazer uma e uma só das seguintes ações: 
+1. Dar uma pista 
+2. Descartar uma carta 
+3. Jogar uma carta
+
+1. DAR UMA PISTA 
+Só poderá usar esta ação se existirem fichas de pista disponíveis.
+As únicas pistas que se podem dar são relativas, ou à cor ou ao número das cartas de um jogador. As pistas permitidas são indicar a posição de: 
+- Todas as cartas de uma cor ou
+- Todas as cartas de um número
+Nunca se pode indicar simultaneamente a cor e o número de qualquer carta. 
+
+2. DESCARTAR UMA CARTA 
+Esta ação adiciona uma pista às existentes virando uma das que foram usadas e não poderá ser usada, caso estejam disponíveis todas as pistas. 
+O jogador anuncia que vai descartar uma carta e escolhe uma das suas cartas e coloca-a no monte de cartas descartadas. as cartas do monte de descarte podem ser consultadas em qualquer altura por qualquer jogador.
+
+3. JOGAR (PARA A MESA) UMA CARTA 
+É ao jogar / colocar cartas na mesa, que se constrói o fogo-de-artifício. O jogador anuncia que vai jogar uma carta e escolhe a carta para jogar na mesa. Ocorre uma das duas situações seguintes: 
+- A carta pode ser jogada corretamente na mesa, iniciando um fogo-de-artifício ou continuando um já existente. 
+Caso a carta jogada seja um 5, completando uma cor, ganha-se uma pista, se for possível.
+- A carta pode não ser jogada corretamente na mesa. Ou seja, não é sequencial no monte da sua cor. Neste caso os deuses ficam furiosos e enviam um raio vindo do céu, resultando na perda de uma vida. As vidas não são recuperáveis. 
+Depois de jogar, o jogador completa a sua mão para 5 cartas retirando uma nova carta do monte de compra (se houver cartas disponíveis no baralho de compra), mas sem olhar para a face da carta!
+
+FIM DO JOGO
+O jogo termina, se: 
+- Todos os montes de cor forem terminados. O espetáculo terminou e a pontuação é de 25 pontos. 
+- A última carta do baralho de compra for removida, nesse caso todos os jogadores jogam uma última vez. A pontuação final corresponde ao total de cartas que conseguiram jogar na mesa. 
+- A terceira ficha de vida for virada. O jogo termina e a pontuação é de 0 pontos. Os deuses demonstram a sua ira na forma de uma tempestade que põe fim ao fogo-de-artifício.

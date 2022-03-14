@@ -1,0 +1,6 @@
+
+    H    H       AA       NN    N       AA       BBBBB    IIIII
+    H    H      A  A      N N   N      A  A      B    B     I
+    HHHHHH     AAAAAA     N  N  N     AAAAAA     BBBBB      I
+    H    H    A      A    N   N N    A      A    B    B     I
+    H    H   A        A   N    NN   A        A   BBBBB    IIIII
